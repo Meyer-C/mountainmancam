@@ -1,4 +1,4 @@
-- Hi, I’m @mountainmancam
+- Hi, I’m Camden
 - I’m interested in bioinformatics and have spent the last year or so learning some bioinformatics algorythms in Python and building tools for sequence analysis.
 - I’m currently learning machine learning in Python as a fun project to learn a new skill
 - How to reach me, email: cmeyerclan@gmail.com
